@@ -5,7 +5,7 @@ Babel==2.6.0
 base58==1.0.0
 billiard==3.5.0.4
 block-io==1.1.6
-celery==4.2.1
+celery==5.2.2
 certifi==2018.4.16
 cffi==1.11.5
 chardet==3.0.4
